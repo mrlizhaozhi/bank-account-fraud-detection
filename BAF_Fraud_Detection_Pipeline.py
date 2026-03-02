@@ -88,12 +88,12 @@ log_transform_candidates = [
 drop_features = [
     'intended_balcon_amount', 
     'prev_address_months_count', 
-    'housing_status_BG', 
-    'payment_type_AE',
-    'payment_type_AC', 
-    'intended_balcon_amount_missing_1', 
-    'prev_address_months_count_missing_1', 
-    'bank_months_count_missing_1'
+    #'housing_status_BG', 
+    #'payment_type_AE',
+    #'payment_type_AC', 
+    #'intended_balcon_amount_missing_1', 
+    #'prev_address_months_count_missing_1', 
+    #'bank_months_count_missing_1'
 ]
 
 
